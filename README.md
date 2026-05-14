@@ -9,4 +9,4 @@ but i love creating programs
 
 ### repo
 
-[CLI project][https://github.com/dex0o0/CLI]
+[CLI][https://github.com/dex0o0/CLI]
