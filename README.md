@@ -9,7 +9,7 @@ but i love creating programs
 
 ### repo
 
-<div aline="center">
+<div align="center">
 
 <br>[CLI](https://github.com/dex0o0/CLI)
 
