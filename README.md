@@ -1,4 +1,10 @@
+<div align="center">
+
 # dex0o0
+
+> _a manfacturer turn to coding_
+
+</div>
 
 ## Hi my name is dex0o0 i'm Rust,bash developer
 
