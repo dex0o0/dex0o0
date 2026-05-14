@@ -17,6 +17,6 @@ but i love creating programs
 
 <div align="center">
 
-<br>[CLI](https://github.com/dex0o0/CLI)
+<br>[CLI](https://github.com/dex0o0/CLI) | [Donate](https://daramet.com/dex0o0)
 
 </div>
