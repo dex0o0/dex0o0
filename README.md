@@ -31,9 +31,9 @@ A system daemon project designed for background automation, monitoring, and tele
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dex0o0&show_icons=true&theme=" alt="dex0o0's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex0o0&theme=tokyonight" alt="dex0o0's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dex0o0&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dex0o0&theme=tokyonight" alt="Top Languages" />
 </p>
