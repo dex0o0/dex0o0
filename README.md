@@ -6,21 +6,24 @@ Independent software developer focused on systems programming, automated tooling
 
 ## Technical Stack
 
-* **Languages:** Rust, C#, Python, Bash, JavaScript, HTML5
-* **Environments & Tools:** Git, Terminal-driven workflows
+- **Languages:** Rust, Python, Bash
+- **Environments & Tools:** Git, Terminal-driven workflows
 
 ---
 
 ## Featured Projects
 
 ### [CLI](https://github.com/dex0o0/CLI)
+
 A custom Command Line Interface tool developed for system management and automated execution tasks.
-* **Architecture:** Modular implementation leveraging `Clap` for structured argument parsing and subcommand routing.
-* **Security & Validation:** Employs a multi-layered verification system utilizing Regex pattern matching and whitelist-based command validation.
-* **Persistence:** Integrated with `Serde` for JSON-based configuration management and profile serialization.
-* **Concurrency:** Uses `Rayon` to enable multi-threaded, parallel file operations and high-performance search execution.
+
+- **Architecture:** Modular implementation leveraging `Clap` for structured argument parsing and subcommand routing.
+- **Security & Validation:** Employs a multi-layered verification system utilizing Regex pattern matching and whitelist-based command validation.
+- **Persistence:** Integrated with `Serde` for JSON-based configuration management and profile serialization.
+- **Concurrency:** Uses `Rayon` to enable multi-threaded, parallel file operations and high-performance search execution.
 
 ### [AEON](https://github.com/dex0o0/AEON)
+
 A system daemon project designed for background automation, monitoring, and telemetry data collection. Focuses on asynchronous execution loops, log processing, and low-level system interactions.
 
 ---
