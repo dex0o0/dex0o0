@@ -1,22 +1,36 @@
-<div align="center">
+# dex (@dex0o0)
 
-# dex0o0
+Independent software developer focused on systems programming, automated tooling, and safe command execution environments.
 
-> _a manfacturer turn to coding_
+---
 
-</div>
+## Technical Stack
 
-## Hi my name is dex0o0 i'm Rust,bash developer
+* **Languages:** Rust, C#, Python, Bash, JavaScript, HTML5
+* **Environments & Tools:** Git, Terminal-driven workflows
 
-- i not a enginear
-- i not a developer
+---
 
-but i love creating programs
+## Featured Projects
 
-### repo
+### [CLI](https://github.com/dex0o0/CLI)
+A custom Command Line Interface tool developed for system management and automated execution tasks.
+* **Architecture:** Modular implementation leveraging `Clap` for structured argument parsing and subcommand routing.
+* **Security & Validation:** Employs a multi-layered verification system utilizing Regex pattern matching and whitelist-based command validation.
+* **Persistence:** Integrated with `Serde` for JSON-based configuration management and profile serialization.
+* **Concurrency:** Uses `Rayon` to enable multi-threaded, parallel file operations and high-performance search execution.
 
-<div align="center">
+### [AEON](https://github.com/dex0o0/AEON)
+A system daemon project designed for background automation, monitoring, and telemetry data collection. Focuses on asynchronous execution loops, log processing, and low-level system interactions.
 
-<br>[CLI](https://github.com/dex0o0/CLI) | [Donate](https://daramet.com/dex0o0)
+---
 
-</div>
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dex0o0&show_icons=true&theme=tokyonight&count_private=true" alt="dex0o0's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dex0o0&theme=tokyonight" alt="GitHub Streak" />
+</p>
