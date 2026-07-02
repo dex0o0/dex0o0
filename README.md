@@ -6,7 +6,7 @@ Independent software developer focused on systems programming, automated tooling
 
 ## Technical Stack
 
-- **Languages:** Rust, Python, Bash
+- **Languages:** Rust, Bash
 - **Environments & Tools:** Git, Terminal-driven workflows
 
 ---
