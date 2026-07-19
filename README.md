@@ -26,6 +26,8 @@ A custom Command Line Interface tool developed for system management and automat
 
 A system daemon project designed for background automation, monitoring, and telemetry data collection. Focuses on asynchronous execution loops, log processing, and low-level system interactions.
 
+## Support
+
 [![Support via Crypto](https://img.shields.io/badge/Donate%20_-%20Crypto%20Wallet%20-black?style=for-the-badge&logo=walletconnect&logoColor=white)](https://6a5cf1a620758f1d1a9be854--genuine-paletas-940baa.netlify.app/)
 ---
 
