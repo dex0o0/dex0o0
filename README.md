@@ -1,42 +1,120 @@
 # dex (@dex0o0)
 
-Independent software developer focused on systems programming, automated tooling, and safe command execution environments.
+Independent software developer specializing in systems programming, automated tooling, and secure command execution environments. Passionate about building efficient, reliable, and maintainable software solutions.
+
+---
+
+## About Me
+
+I focus on creating robust systems-level tools and infrastructure that enable developers to work more effectively. With expertise in low-level programming and automation, I'm committed to delivering high-quality solutions that solve real-world problems.
 
 ---
 
 ## Technical Stack
 
-- **Languages:** Rust, Bash
-- **Environments & Tools:** Git, Terminal-driven workflows
+| Category | Technologies |
+|----------|---------------|
+| **Languages** | Rust, Bash, Shell Script |
+| **Specialization** | Systems Programming, CLI Development, Automation |
+| **Focus Areas** | Security, Concurrency, Performance Optimization |
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dex0o0&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## Language Distribution
+
+```
+Primary Languages Used in Projects
+
+Rust        ████████████████████████░░░░░░░░░░░  62%
+Bash        ████████████░░░░░░░░░░░░░░░░░░░░░░░  30%
+Shell       ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
+Other       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dex0o0&layout=pie&theme=github_dark&hide_border=true" alt="Language Distribution" />
+</p>
 
 ---
 
 ## Featured Projects
 
-### [CLI](https://github.com/dex0o0/CLI)
+### CLI - Command Line Interface Tool
 
-A custom Command Line Interface tool developed for system management and automated execution tasks.
+A robust, modular Command Line Interface for system management and automated task execution.
 
-- **Architecture:** Modular implementation leveraging `Clap` for structured argument parsing and subcommand routing.
-- **Security & Validation:** Employs a multi-layered verification system utilizing Regex pattern matching and whitelist-based command validation.
-- **Persistence:** Integrated with `Serde` for JSON-based configuration management and profile serialization.
-- **Concurrency:** Uses `Rayon` to enable multi-threaded, parallel file operations and high-performance search execution.
+- **Architecture:** Modular design for structured argument parsing and subcommand routing
+- **Security & Validation:** Multi-layered verification using Regex patterns and whitelist-based command validation
+- **Persistence:** JSON-based configuration management for profile serialization
+- **Performance:** Parallel file operations and high-performance search capabilities for multi-threaded execution
 
-### [AEON](https://github.com/dex0o0/AEON)
+**Repository:** [github.com/dex0o0/CLI](https://github.com/dex0o0/CLI)
 
-A system daemon project designed for background automation, monitoring, and telemetry data collection. Focuses on asynchronous execution loops, log processing, and low-level system interactions.
+---
 
-## Support
+### AEON - System Daemon & Automation
 
-[![Support via Crypto](https://img.shields.io/badge/Donate%20_-%20Crypto%20Wallet%20-black?style=for-the-badge&logo=walletconnect&logoColor=white)](https://6a5cf1a620758f1d1a9be854--genuine-paletas-940baa.netlify.app/)
+A sophisticated system daemon designed for background automation, real-time monitoring, and telemetry data collection.
+
+- **Core Focus:** Asynchronous execution loops with robust log processing
+- **System Integration:** Low-level system interactions for reliable monitoring
+- **Reliability:** Built for continuous operation with fault tolerance
+
+**Repository:** [github.com/dex0o0/AEON](https://github.com/dex0o0/AEON)
+
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex0o0&theme=tokyonight" alt="dex0o0's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex0o0&theme=tokyonight" alt="dex0o0's GitHub Profile" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dex0o0&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dex0o0&theme=tokyonight" alt="Repos Per Language" />
 </p>
+
+---
+
+## Core Competencies
+
+- Rust systems programming and CLI tool development
+- Bash scripting and shell automation
+- Concurrent and parallel processing
+- Security-focused architecture design
+- Command validation and input sanitization
+- JSON configuration management
+- Performance optimization for large-scale operations
+
+---
+
+## Philosophy
+
+I believe in writing code that is:
+
+- Secure by default
+- Efficient and performant
+- Well-documented and maintainable
+- Thoroughly tested
+- Respectful of system resources
+
+---
+
+## Connect With Me
+
+Feel free to reach out for collaboration, code reviews, or discussions about systems programming and automation tooling.
+
+- GitHub: [@dex0o0](https://github.com/dex0o0)
+- Issues & Discussions: Open to feature requests and technical discussions
+
+---
+
+**Last Updated:** August 10, 2026
