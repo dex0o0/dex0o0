@@ -1,120 +1,73 @@
-# dex (@dex0o0)
+# `dex0o0`
 
-Independent software developer specializing in systems programming, automated tooling, and secure command execution environments. Passionate about building efficient, reliable, and maintainable software solutions.
-
----
-
-## About Me
-
-I focus on creating robust systems-level tools and infrastructure that enable developers to work more effectively. With expertise in low-level programming and automation, I'm committed to delivering high-quality solutions that solve real-world problems.
-
----
-
-## Technical Stack
-
-| Category | Technologies |
-|----------|---------------|
-| **Languages** | Rust, Bash, Shell Script |
-| **Specialization** | Systems Programming, CLI Development, Automation |
-| **Focus Areas** | Security, Concurrency, Performance Optimization |
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dex0o0&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## Language Distribution
-
-```
-Primary Languages Used in Projects
-
-Rust        ████████████████████████░░░░░░░░░░░  62%
-Bash        ████████████░░░░░░░░░░░░░░░░░░░░░░░  30%
-Shell       ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
-Other       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
+```bash
+┌──(dex㉿archlinux)-[~]
+└─$ whoami
+Rust Developer | Linux Enthusiast
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dex0o0&layout=pie&theme=github_dark&hide_border=true" alt="Language Distribution" />
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Language-Rust-CE422B?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Environment-Linux-black?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
 ---
 
-## Featured Projects
+## `whoami`
 
-### CLI - Command Line Interface Tool
+I'm a developer who enjoys understanding how computers work under the hood.
 
-A robust, modular Command Line Interface for system management and automated task execution.
+I build practical tools, experiment with Linux, and use Rust to explore systems programming, networking, and automation.
 
-- **Architecture:** Modular design for structured argument parsing and subcommand routing
-- **Security & Validation:** Multi-layered verification using Regex patterns and whitelist-based command validation
-- **Persistence:** JSON-based configuration management for profile serialization
-- **Performance:** Parallel file operations and high-performance search capabilities for multi-threaded execution
+I believe the best way to learn is to build something real.
 
-**Repository:** [github.com/dex0o0/CLI](https://github.com/dex0o0/CLI)
+## `ls ~/projects`
+
+### [hoptix](https://github.com/dex0o0/hoptix)
+
+**A Rust download manager and daemon**
+
+- Working with HTTP and file downloads
+- Exploring background services and process communication
+- Learning to build reliable systems software
+
+### [CLI](https://github.com/dex0o0/CLI)
+
+**A modular command-line toolkit written in Rust**
+
+- System information and monitoring utilities
+- Wi-Fi management with `nmcli`
+- File searching, downloads, notifications, and more
+
+## `cat /proc/current_focus`
+
+- **Rust:** writing cleaner, safer, more maintainable code
+- **Linux:** understanding operating system internals
+- **Systems programming:** learning how software interacts with hardware
+- **Networking:** exploring protocols and practical tools
+- **Open source:** building useful things and improving through practice
+
+## `cat ~/principles.txt`
+
+```text
+[+] Understand before abstracting.
+[+] Build practical tools.
+[+] Learn by experimenting.
+[+] Keep improving.
+```
+
+## `connect`
+
+<p align="left">
+  <a href="https://github.com/dex0o0">
+    <img src="https://img.shields.io/badge/GitHub-dex0o0-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+</p>
 
 ---
-
-### AEON - System Daemon & Automation
-
-A sophisticated system daemon designed for background automation, real-time monitoring, and telemetry data collection.
-
-- **Core Focus:** Asynchronous execution loops with robust log processing
-- **System Integration:** Low-level system interactions for reliable monitoring
-- **Reliability:** Built for continuous operation with fault tolerance
-
-**Repository:** [github.com/dex0o0/AEON](https://github.com/dex0o0/AEON)
-
----
-
-## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dex0o0&theme=tokyonight" alt="dex0o0's GitHub Profile" />
+  <i>Powered by Linux, written in Rust.</i>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dex0o0&theme=tokyonight" alt="Repos Per Language" />
-</p>
-
----
-
-## Core Competencies
-
-- Rust systems programming and CLI tool development
-- Bash scripting and shell automation
-- Concurrent and parallel processing
-- Security-focused architecture design
-- Command validation and input sanitization
-- JSON configuration management
-- Performance optimization for large-scale operations
-
----
-
-## Philosophy
-
-I believe in writing code that is:
-
-- Secure by default
-- Efficient and performant
-- Well-documented and maintainable
-- Thoroughly tested
-- Respectful of system resources
-
----
-
-## Connect With Me
-
-Feel free to reach out for collaboration, code reviews, or discussions about systems programming and automation tooling.
-
-- GitHub: [@dex0o0](https://github.com/dex0o0)
-- Issues & Discussions: Open to feature requests and technical discussions
-
----
-
-**Last Updated:** August 10, 2026
